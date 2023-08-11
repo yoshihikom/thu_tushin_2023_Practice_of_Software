@@ -1,1 +1,1 @@
-# thu_tushin_2023_Practice_of_Software
+# 2023年　帝京平成大通信　応用プログラミング演習/ソフトウェア演習
